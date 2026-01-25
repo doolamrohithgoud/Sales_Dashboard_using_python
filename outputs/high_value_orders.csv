@@ -1,0 +1,5 @@
+order_id,customer,city,category,quantity,price,order_date,total_amounnt,total_amount,month,day_of_week
+1006,Anjali,Hyderabad,Furniture,3.0,16000.0,2024-01-06,48000.0,48000.0,2024-01,Saturday
+1024,Priya,Chennai,Furniture,3.0,16000.0,2024-01-24,48000.0,48000.0,2024-01,Wednesday
+1039,Vikas,Chennai,Furniture,3.0,16000.0,2024-02-08,48000.0,48000.0,2024-02,Thursday
+1046,Anjali,Hyderabad,Electronics,3.0,16000.0,2024-02-15,48000.0,48000.0,2024-02,Thursday
