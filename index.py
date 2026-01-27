@@ -79,22 +79,6 @@ elif option == "Category-wise Sales":
 
     st.pyplot(fig)
 
-# elif option == "":
-#     st.subheader("🔎  Insights")
-
-#     # ensure columns and types
-#     if 'total_amounnt' in df.columns:
-#         df['total_amount'] = df['total_amounnt']
-#     elif 'total_amount' not in df.columns:
-#         df['total_amount'] = df.get('total', np.nan)
-
-#     df['order_date'] = pd.to_datetime(df['order_date'])
-#     df['month'] = df['order_date'].dt.to_period('M').astype(str)
-#     df['day_of_week'] = df['order_date'].dt.day_name()
-
-#     total_sales = df['total_amount'].sum()
-#     total_orders = len(df)
-#     avg_order = df['total_amount'].mean()
 
 elif option =="Top customers":
 
